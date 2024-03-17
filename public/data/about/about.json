@@ -1,27 +1,27 @@
 {
-	"name": "Dhruv Rishishwar",
-	"description": "I am a full-stack web developer, pursuing my B.Tech in Computer Science & Engineering from Indian Institute of Information Technology, Design and Manufacturing Jabalpur. I strive to make meaningful applications while keeping scalability and user experience in mind.",
+	"name": "Niharika Shah",
+	"description": "I am a full-stack web developer, pursuing my B.Tech in Electronics & Communication Engineering from Indian Institute of Information Technology, Design and Manufacturing Jabalpur. I strive to make meaningful applications while keeping scalability and user experience in mind.",
 	"profile": {
 		"imageUrl": "/data/about/profile.jpeg",
-		"imageAlt": "Picture of Dhruv Rishishwar"
+		"imageAlt": "Picture of Niharika Shah"
 	},
 	"contact": {
 		"email": {
-			"href": "mailto:dhruvrishishwar2@gmail.com",
-			"text": "dhruvrishishwar2@gmail.com",
+			"href": "mailto:shahniharikagujju@gmail.com",
+			"text": "shahniharikagujju@gmail.com",
 			"icon": "fa-solid fa-envelope"
 		},
 		"phone": {
-			"href": "tel:+916268086918",
-			"text": "+91 6268086918",
+			"href": "tel:+918591598016",
+			"text": "+91 8591598016",
 			"icon": "fa-solid fa-phone"
 		},
 		"linkedin": {
-			"href": "https://www.linkedin.com/in/dhruvrishishwar/",
-			"text": "dhruvrishishwar",
+			"href": "https://www.linkedin.com/in/niharika-shah-9018b8257/",
+			"text": "niharikashah",
 			"icon": "fa-brands fa-linkedin"
 		}
 	},
-	"githubUrl": "https://github.com/Sneakyhydra",
-	"linkedinUrl": "https://www.linkedin.com/in/dhruvrishishwar/"
+	"githubUrl": "https://github.com/Code-eat-sleep-include",
+	"linkedinUrl": "https://www.linkedin.com/in/niharika-shah-9018b8257/"
 }

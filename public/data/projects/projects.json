@@ -1,27 +1,26 @@
 {
 	"ontheway": {
-		"title": "On The Way",
-		"description": "Student Counselling System",
-		"githubUrl": "https://github.com/Sneakyhydra/On-The-Way",
-		"techStack": ["React", "Node", "MySQL"],
-		"liveUrl": "https://on-the-way-sneakyhydra.vercel.app/"
+		"title": "OceanGaurdians",
+		"description": "Initiative to save marine life",
+		"githubUrl": "https://github.com/Code-eat-sleep-include/ocean",
+		"techStack": ["React", "HTML", "CSS", "JS"]
 	},
 	"sentinel": {
-		"title": "Sentinel",
-		"description": "Offline Voice Assistant",
-		"githubUrl": "https://github.com/Sneakyhydra/Sentinel",
-		"techStack": ["Python"]
+		"title": "Codeforces Analyzer",
+		"description": "Codeforces Progress Analyzer",
+		"githubUrl": "https://github.com/Code-eat-sleep-include/CF-analyzer.git",
+		"techStack": ["HTML", "CSS", "JS", "TypeScript", "Dockerfile"]
 	},
 	"stakemate": {
-		"title": "Stake Mate",
-		"description": "Decentralized Staking Platform",
-		"githubUrl": "https://github.com/Sneakyhydra/StakeMate",
-		"techStack": ["React", "Node", "Solidity", "Truffle"]
+		"title": "Sorting Visualizer",
+		"description": "Demonstrates how each sorting algorithm works",
+		"githubUrl": "https://github.com/Code-eat-sleep-include/Sorting-visualizer",
+		"techStack": ["HTML", "CSS", "JS"]
 	},
 	"artvault": {
-		"title": "Art Vault",
-		"description": "NFT Marketplace",
-		"githubUrl": "https://github.com/Sneakyhydra/ArtVault",
-		"techStack": ["Next", "Solidity", "Hardhat"]
+		"title": "Weather Now",
+		"description": "Shows weather conditions with live location",
+		"githubUrl": "https://github.com/Code-eat-sleep-include/Weather-app-with-live-loc",
+		"techStack": ["HTML", "CSS", "JS", "API Integration"]
 	}
 }

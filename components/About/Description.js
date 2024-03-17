@@ -81,7 +81,7 @@ const Description = ({ data }) => {
 						color: 'rgb(var(--foreground))',
 					}}
 				>
-					<Modal.Title>Dhruv_Rishishwar_Resume</Modal.Title>
+					<Modal.Title>Niharika_Shah_Resume</Modal.Title>
 					<button
 						className={styles.closeBtn + ' btn rounded'}
 						onClick={handleClose}
